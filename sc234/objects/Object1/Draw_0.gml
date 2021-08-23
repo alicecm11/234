@@ -1,6 +1,6 @@
 //something
 
-//conflict
+//But more 
 //something
 
-//conflict
+//and more here 
